@@ -640,6 +640,16 @@ footer{
     .input-field{
         width: 100%;
     }
+    .btn {
+        padding: 16px 0;
+        font-size: 18px;
+        width: 100%;
+        border-radius: 15px;
+    }
+    .form-button>.btn {
+        min-height: 50px;
+        font-size: 18px;
+    }
 }
 form#contactForm {
     width: 100%;
